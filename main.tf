@@ -2,7 +2,7 @@ terraform {
   backend "gcs" {
     bucket                      = "data1-terraform-state"
     prefix                      = "terraform/state"
-   impersonate_service_account = "devops@data1co.iam.gserviceaccount.com"
+    impersonate_service_account = "devops@data1co.iam.gserviceaccount.com"
   }
 }
 
