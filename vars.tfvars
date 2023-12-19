@@ -1,5 +1,5 @@
-GOOGLE_PROJECT=data1
-GOOGLE_REGION=us-central1-a
-GKE_CLUSTER_NAME=test
-GKE_MACHINE_TYPE=n2-standard-1
-GKE_NUM_NODES=1
+GOOGLE_PROJECT   = "data1co"
+GOOGLE_REGION    = "us-central1-a"
+GKE_CLUSTER_NAME = "test"
+GKE_MACHINE_TYPE = "n2-standard-1"
+GKE_NUM_NODES    = "1"
